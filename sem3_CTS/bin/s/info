@@ -1,0 +1,2 @@
+s = single responsibility principle
+- the class must do what it says, that doesn't mean that we need to have only one method
